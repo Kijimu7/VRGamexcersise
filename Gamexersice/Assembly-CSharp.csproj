@@ -258,7 +258,6 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
      <None Include="Assets\BNG Framework\Integrations\Emerald AI\Instructions.txt" />
      <None Include="Assets\BNG Framework\Materials\ColumnGlow.shader" />
-     <None Include="Assets\KB3D\license.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\BNG Framework\Integrations\Oculus Integration\Readme.txt" />
      <None Include="Assets\Waldemarst\JapaneseGardenPackage\Textures\Credits.txt" />
