@@ -1,6 +1,6 @@
 # VRGamexcersise
 
-![alt text]([[http://url/to/img.png](https://www.canva.com/design/DAFDdZKCpJo/zJT-_HEZOu5jUqi7khUHvA/edit?utm_content=DAFDdZKCpJo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+![Wireframe](https://user-images.githubusercontent.com/31402838/173290080-7d47586f-d47e-4719-a60a-aadc87e63f25.png)
 
 # Project Title
 
